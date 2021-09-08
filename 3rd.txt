@@ -1,0 +1,2 @@
+This is my 3rd folder by git for repositary
+this is making some changes 
